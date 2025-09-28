@@ -1,2 +1,3 @@
 # SNPAnalyzer
-<img width="1024" height="1024" alt="Анализ ДНК в цифровом мире" src="https://github.com/user-attachments/assets/1b0616f5-4832-43ec-9364-c1170c6f9c1f" />
+<img width="1536" height="1024" alt="ChatGPT Image 27 сент  2025 г , 23_02_12" src="https://github.com/user-attachments/assets/8e2c4cac-fe02-4b13-8ee8-420bb409172e" />
+
