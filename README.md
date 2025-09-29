@@ -1,6 +1,7 @@
 # SNPAnalyzer
 Previously available at [xenoonn.ru](https://xenoonn.ru) \
-Now available at [snpanalyzer.ru](https://snpanalyzer.ru) / [snpanalyzer.com](https://snpanalyzer.com)
+Now available at [snpanalyzer.ru](https://snpanalyzer.ru) / [snpanalyzer.com](https://snpanalyzer.com) \
+
 <img src="https://github.com/user-attachments/assets/8e2c4cac-fe02-4b13-8ee8-420bb409172e" style="width:200px; float:left; margin-right:12px;">
 
 #### Whats is it?
